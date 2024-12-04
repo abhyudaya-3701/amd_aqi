@@ -32,7 +32,7 @@ Air Quality Index (AQI) is an essential metric for understanding air pollution l
 ## Prerequisites
 
 - Python 3.8 or higher
-- Required Python libraries: `pandas`, `numpy`, `matplotlib`, `openpyxl`
+- Required Python libraries: `pandas`, `numpy`, `matplotlib`, `openpyxl`, `pdfplumber`
 
 Install dependencies using:
 ```bash
